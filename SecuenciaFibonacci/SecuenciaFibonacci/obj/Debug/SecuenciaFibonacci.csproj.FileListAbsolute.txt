@@ -1,0 +1,7 @@
+C:\Users\jonny\source\repos\PrograII-2024\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\SecuenciaFibonacci.exe.config
+C:\Users\jonny\source\repos\PrograII-2024\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\SecuenciaFibonacci.exe
+C:\Users\jonny\source\repos\PrograII-2024\SecuenciaFibonacci\SecuenciaFibonacci\bin\Debug\SecuenciaFibonacci.pdb
+C:\Users\jonny\source\repos\PrograII-2024\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\SecuenciaFibonacci.csproj.AssemblyReference.cache
+C:\Users\jonny\source\repos\PrograII-2024\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\SecuenciaFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\jonny\source\repos\PrograII-2024\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\SecuenciaFibonacci.exe
+C:\Users\jonny\source\repos\PrograII-2024\SecuenciaFibonacci\SecuenciaFibonacci\obj\Debug\SecuenciaFibonacci.pdb

@@ -17,6 +17,8 @@ namespace SecuenciaFibonacci {
                     b = a;
                     a = c;
                 } while (c < 1000);
+                Console.WriteLine("Presione cualquier tecla para continuar o presione 's' para salir: ");
+                continuar = Console.ReadLine().Equals("s");
             }
         }
     }
